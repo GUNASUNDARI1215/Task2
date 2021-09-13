@@ -17,7 +17,7 @@ int main()
 		}
 		else if(count>0)
 		{
-			count --;
+			count--;
 			for(j=0;j<count;j++)
 			{
 				printf("%c",ch);
